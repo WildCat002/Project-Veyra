@@ -7,10 +7,6 @@ env/
 __pycache__/
 *.py[cod]
 
-# Trained model weights
-weights.pkl
-weights_old.pkl
-
 # Dataset backup
 data_old.txt
 
